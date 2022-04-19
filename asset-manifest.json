@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/R_QMachine/static/css/main.be490ec3.css",
+    "main.js": "/R_QMachine/static/js/main.6ea3ad6e.js",
+    "index.html": "/R_QMachine/index.html",
+    "main.be490ec3.css.map": "/R_QMachine/static/css/main.be490ec3.css.map",
+    "main.6ea3ad6e.js.map": "/R_QMachine/static/js/main.6ea3ad6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be490ec3.css",
+    "static/js/main.6ea3ad6e.js"
+  ]
+}
