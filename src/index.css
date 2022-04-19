@@ -1,0 +1,65 @@
+ :root{
+ 	--lightblue: #0091EA;
+ 	--purple: #7B1FA2;
+ 	--cyan: #26C6DA;
+ 	--pink: #FF4081;
+ 	--teal: #009688;
+ 	--indigo: #3F51B5;
+ }
+
+
+    .App{
+    	background-color: #FFEBEE;
+    }
+
+    .card{
+    	margin-top: 30px;
+    }
+
+    @media(min-width: 500px)
+    {
+    	.card
+    	{
+    		top: 200px;
+    		height: 500px;
+    		margin: auto;
+    		width: 95vw;
+    	}
+    }
+
+    #quote-box{
+    	margin: auto;
+    	width: 95%;
+    	margin-top: 50px;
+    }
+
+    h1{
+    	text-align: left;
+    	font-family: sans-serif;
+    	margin: 0px 1px 0px 2px;
+    }
+
+    p{
+    	padding-left: 0px;
+    }
+
+    button{
+    	outline: none;
+    	border-radius: 3rem;
+    	margin-top: 64px;
+    	margin-bottom: 64px;
+    	transition: 0.4s;
+    	font-size: 1.5rem;
+    	cursor: pointer;
+    	font-weight: 700;
+    }
+
+
+    #tweet-quote{
+    	float: left;
+    }
+
+    #new-quote{
+    	float: right;
+    	background-color: var(--pink);
+    }
