@@ -1,3 +1,8 @@
+Link to Random quote machine:
+
+https://funky800.github.io/R_QMachine
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
